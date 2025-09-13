@@ -1,0 +1,21 @@
+{
+    "Port": 14000,
+    "Instruments":[
+        {
+
+            "Id": 1,
+            "Symbol": "NVDA",
+            "Specifications":{
+                "Depth":10          
+            }
+        },
+        {
+
+            "Id":2,
+            "Symbol":"META",
+            "Specifications": {
+                "Depth": 5
+            }
+        }
+    ]
+}
